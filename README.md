@@ -12,6 +12,13 @@ I am Electrical Engineer.
 *   🧠  Currently learning JAVASCRIPT
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   📫 How to reach me: saurabhsingh0kr@gmail.com
+*   🤝 I’m looking for help with exploring new tools and technologies.
+*   😄 Pronouns: he/him
+
+## 🌐 Socials:
+
+<p align="left"> <a href="https://www.linkedin.com/in/saurabh-singh-95b135173/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+
 
 # 💻 Tech Stack/Skills:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,6 +77,3 @@ I am Electrical Engineer.
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
  
 
-## 🌐 Socials:
-
-<p align="left"> <a href="https://www.linkedin.com/in/saurabh-singh-95b135173/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
