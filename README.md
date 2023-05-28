@@ -11,6 +11,7 @@ I am Electrical Engineer.
 *   🖥️ Aiming for Front End developer or Data Analyst
 *   🧠  Currently learning JAVASCRIPT
 *   🤝  I'm open to collaborating on interesting projects as a developer
+*   📫 How to reach me: saurabhsingh0kr@gmail.com
 
 # 💻 Tech Stack/Skills:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
