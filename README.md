@@ -68,9 +68,11 @@ I am Electrical Engineer.
 ![](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![]()
 
-![MATLAB]()
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  </p>
-![AutoCAD]()
+MATLAB & AutoCAD
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Autodesk-Autocad-icon.png" alt="autocad" width="40" height="40"/> </a>
+</p>
+
 
 # IDE:
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
